@@ -19,6 +19,8 @@ public class JavaTest {
         list.add("a");
         list.add(1);
 
+        //test
+
     }
 
 
